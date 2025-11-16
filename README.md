@@ -16,6 +16,7 @@ Python • SQL • Azure • Machine Learning • Big Data • Data Engineering
 **A statistical helper to analyze password patterns from the Torn game wordlists.**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/kzon94/torn-cracking-tool)
 [![Python](https://img.shields.io/badge/Python-3.x-yellow)]()
+![Streamlit]([https://img.shields.io/badge/Streamlit-App-red](https://kzons-torn-cracking-tool.streamlit.app/))
 
 ---
 
@@ -24,7 +25,7 @@ Python • SQL • Azure • Machine Learning • Big Data • Data Engineering
 **Streamlit app to clean inventory data, fetch prices via API and provide sale suggestions.**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/kzon94/torn-market-analyzer)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Streamlit]([https://img.shields.io/badge/Streamlit-App-red](https://kzons-torn-market-analyzer.streamlit.app/))
 
 ---
 
